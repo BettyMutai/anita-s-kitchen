@@ -1,0 +1,69 @@
+.one{
+  color: white;
+  background-image: url(ip2/assets/backgrounds/landing.jpg);
+  background-size: cover;
+}
+
+#course:hover .image {
+  opacity: 0.2;
+  backface-visibility: hidden;
+}
+
+#happy{
+  height: 105px;
+  text-align: center;
+}
+
+#party{
+  background-color: #F15A29;
+  height: 105px;
+  text-align: center;
+}
+
+.breakfast{
+  background-image: url(ip2/assets/foodtop/breakfast.jpg);
+  height: 200px;
+  text-align: center;
+  color: white;
+}
+
+
+.lunch{
+  background-image: url(ip2/assets/foodtop/lunch.jpg);
+  height: 200px;
+  text-align: center;
+  color: white;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+.dinner{
+  background-image: url(ip2/assets/foodtop/dinner.jpg);
+  height: 200px;
+  text-align: center;
+  color: white;
+}
+.five{
+  background-image: url(ip2/assets/backgrounds/foodsBg.jpg);
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+  color: red;
+
+}
+.six{
+  margin: 12px;
+  border: 2px solid #D3D3D3;
+  padding: 4px;
+}
+.seven{
+  background-image: url(ip2/assets/backgrounds/subscribe.jpg);
+  background-size: cover;
+  text-align: center;
+  color: white;
+  height: 200px;
+}
+.eight{
+  background-color: #FF4500;
+  color: white;
+}
